@@ -1,0 +1,5 @@
+C:\Users\rwilliams\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Rion Williams\Glyphfriend2013\1.0\\extension.vsixmanifest
+C:\Users\rwilliams\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Rion Williams\Glyphfriend2013\1.0\\Glyphfriend.png
+C:\Users\rwilliams\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Rion Williams\Glyphfriend2013\1.0\\LICENSE.txt
+C:\Users\rwilliams\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Rion Williams\Glyphfriend2013\1.0\\Glyphfriend2013.dll
+C:\Users\rwilliams\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Rion Williams\Glyphfriend2013\1.0\\Glyphfriend2013.pdb

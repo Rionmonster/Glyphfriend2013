@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="Glyphfriend2013..63df32cd-068e-4231-bf90-9cb120069e35" Version="1.0" Language="en-US" Publisher="Rion Williams" />
+    <DisplayName>Glyphfriend2013</DisplayName>
+    <Description xml:space="preserve">Glyphfriend is a Visual Studio extension to enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries like Font Awesome, Foundation, IonIcons and more.</Description>
+    <License>LICENSE.txt</License>
+    <Icon>Glyphfriend.png</Icon>
+    <PreviewImage>Glyphfriend.png</PreviewImage>
+    <Tags>visual studio intellisense, glyph intellisense, font awesome, glyphicons, icon intellisense, icomoon, ionicons, foundation, ionic, bootstrap, bootstrap glyphicons, octicons</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Version="[12.0,13.0)" Id="Microsoft.VisualStudio.Pro" />
+    <InstallationTarget Version="[12.0,13.0)" Id="Microsoft.VisualStudio.Premium" />
+    <InstallationTarget Version="[12.0,13.0)" Id="Microsoft.VisualStudio.Ultimate" />
+    <InstallationTarget Version="[12.0,13.0)" Id="Microsoft.VisualStudio.VWDExpress" />
+  </Installation>
+  <Dependencies>
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.MefComponent" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%|" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
+  </Assets>
+</PackageManifest>

@@ -1,0 +1,9 @@
+C:\Source\Other Github\Glyphfriend2013\Glyphfriend2013\bin\Release\Glyphfriend.png
+C:\Source\Other Github\Glyphfriend2013\Glyphfriend2013\bin\Release\LICENSE.txt
+C:\Source\Other Github\Glyphfriend2013\Glyphfriend2013\bin\Release\Glyphfriend2013.vsix
+C:\Source\Other Github\Glyphfriend2013\Glyphfriend2013\bin\Release\extension.vsixmanifest
+C:\Source\Other Github\Glyphfriend2013\Glyphfriend2013\obj\Release\Glyphfriend2013.dll
+C:\Source\Other Github\Glyphfriend2013\Glyphfriend2013\obj\Release\Glyphfriend2013.pdb
+C:\Source\Other Github\Glyphfriend2013\Glyphfriend2013\obj\Release\extension.vsixmanifest
+C:\Source\Other Github\Glyphfriend2013\Glyphfriend2013\obj\Release\Glyphfriend2013.g.resources
+C:\Source\Other Github\Glyphfriend2013\Glyphfriend2013\obj\Release\Glyphfriend2013.csprojResolveAssemblyReference.cache
